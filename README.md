@@ -1,7 +1,7 @@
 ﻿# Task Details
 Your task is to create a native Android app. The app must be hidden into the background in the initial loading state. When the button "volume down" is pressed 3 times consecutively, it will toggle the visibility of the app (hidden/visible). Write down your assumptions and the instruction to run your solution into a file named "README.md". Lastly, create a repository on GitHub or Bitbucket, upload your solution with the "README.md" file, then send us the repository URL by email at hr@f8th.ai. Good luck!
 
-#How to run
+## How to run
 - Once open the project in Visual Studio, select a Android simulator.
 - Build the project.
 - Run the app.
