@@ -9,3 +9,6 @@ Your task is to create a native Android app. The app must be hidden into the bac
 - Press the volumn down three times, it will show the home page of the app.
 - Press the volume down three times again, it will close the app and set the app to run in the background and listening for the volumn pressed event again.
 
+## Notes
+The APK file (com.surisak.volume.apk) is added to the project.
+
