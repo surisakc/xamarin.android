@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{F44959EE-5B09-41B8-89F6-7594FE28FF1C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Volume PreferredExecutionTarget="Android.emulator-5554" />
+  <MonoDevelop.Ide.ItemProperties.Volume PreferredExecutionTarget="Android.Pixel_2_API_29" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Volume/MainActivity.cs">
     <Files>
       <File FileName="README.md" Line="4" Column="4" />
-      <File FileName="Volume/MainActivity.cs" Line="1" Column="1" />
-      <File FileName="Volume/BroadcastReceiver.cs" Line="1" Column="1" />
+      <File FileName="Volume/MainActivity.cs" Line="39" Column="1" />
+      <File FileName="Volume/BroadcastReceiver.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
